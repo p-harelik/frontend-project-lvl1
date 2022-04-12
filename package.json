@@ -1,6 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
+  "type": "module",
   "description": "Проект \"Игры разума\"",
   "main": "index.js",
   "scripts": {
