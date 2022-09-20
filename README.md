@@ -27,3 +27,9 @@
 
 Для старта игры введите в консоле ```brain-calc```
 [![asciicast](https://asciinema.org/a/dJRrEoVLsSTIQOaOknajRihcI.svg)](https://asciinema.org/a/dJRrEoVLsSTIQOaOknajRihcI)
+
+### Brain-progression
+Прогрессия. Поиск пропущенных чисел в последовательности чисел.
+
+Для старта игры введите в консоле ```brain-progression```
+[![asciicast](https://asciinema.org/a/8gPvPeyV6IQRWba0p1MhBcagg.svg)](https://asciinema.org/a/8gPvPeyV6IQRWba0p1MhBcagg)
