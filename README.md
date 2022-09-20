@@ -33,3 +33,9 @@
 
 Для старта игры введите в консоле ```brain-progression```
 [![asciicast](https://asciinema.org/a/8gPvPeyV6IQRWba0p1MhBcagg.svg)](https://asciinema.org/a/8gPvPeyV6IQRWba0p1MhBcagg)
+
+### Brain-prime
+Определение простого числа.
+
+Для старта игры введите в консоле ```brain-prime```
+[![asciicast](https://asciinema.org/a/h33Bw59uc7y0Ji44t5LXoq3VX.svg)](https://asciinema.org/a/h33Bw59uc7y0Ji44t5LXoq3VX)
