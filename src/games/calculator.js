@@ -22,7 +22,7 @@ const buildRound = () => {
   const number2 = getRandomNumber(1, 100);
   const operator = operators[getRandomNumber(0, operators.length - 1)];
   const question = `${number1}${operator}${number2}`;
-  const correctAnswer = String(calculate(number1,number2,operator));
+  const correctAnswer = String(calculate(number1, number2, operator));
   return [question, correctAnswer];
 };
 
