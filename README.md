@@ -17,6 +17,13 @@
 
 ## Запуск
 ### Brain-even
+Определение четного числа.
 
 Для старта игры введите в консоле ```brain-even```
 [![asciicast](https://asciinema.org/a/81LfjQpCXOzynwF2pWk73C1PY.svg)](https://asciinema.org/a/81LfjQpCXOzynwF2pWk73C1PY)
+
+### Brain-calc
+Калькулятор. Арифметические выражения, которые необходимо вычислить.
+
+Для старта игры введите в консоле ```brain-calc```
+[![asciicast](https://asciinema.org/a/dJRrEoVLsSTIQOaOknajRihcI.svg)](https://asciinema.org/a/dJRrEoVLsSTIQOaOknajRihcI)
